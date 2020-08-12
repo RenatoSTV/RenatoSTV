@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renato</h1>
+<h1 align="center"># Hi 👋, I'm Renato</h1>
 <h3 align="center">A frontend development student from Brazil,<br/> with the crazy idea of making users' lives better and more fun</h3>
 
 📫 How to reach me **renatostv@gmail.com**
@@ -10,6 +10,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
 </p>
+
 <p align="center">
   <a href="https://twitter.com/renatostv1" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="renatostv1" height="60" width="60" />
